@@ -25,4 +25,11 @@
 >Sample Output1:
 >
 >string magic My 
+
+>Sample Input2:
+>
+>My magic string
+
+>Sample Output2:
+>
 >gnirts cigam yM
